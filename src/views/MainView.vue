@@ -3,21 +3,13 @@
   <NavbarView/>
  
     <div class="container">
-        <div class="row mt-5 borde-manual">
-          <div class="col-md-6 left original-transform position-relative">
-            <div class="block-green position-absolute bottom-0 start-0 z-2"></div>
-            <div class="main position-absolute">
-              <h1>Gigi Dolmazashvili</h1>
-            </div>
-          </div>
-          <div class=" col-md-6 right original-transform position-relative">
-            <div class="main position-absolute">
-              <h1>Gigi Dolmazashvili</h1>
-            </div>
-            <div class="block-red position-absolute top-0 end-0 z-2"></div>
+      <div class="row mt-5">
+        <div class="col-md-12 mt-4">
+          <div class="wall">
+
           </div>
         </div>
-        
+      </div>  
     </div>
  
 </div>
