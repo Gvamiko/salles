@@ -6,7 +6,7 @@
       <div class="row mt-5">
         <div class="col-md-12 mt-4">
           <div class="wall">
-
+            
           </div>
         </div>
       </div>  
