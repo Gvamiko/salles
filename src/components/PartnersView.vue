@@ -6,10 +6,7 @@
                     <h4 class="text-center">პარტნიორები</h4>
                 </div>
             </div>
-            <ul class="partners_list d-flex justify-content-between mt-3">
-                <li>
-                    <h4>Partner</h4>
-                </li>
+            <ul class="partners_list d-flex justify-content-evenly mt-3">
                 <li>
                     <h4>Partner</h4>
                 </li>

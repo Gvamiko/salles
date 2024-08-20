@@ -8,27 +8,30 @@
                     <h4 class="text-center">სერვისები</h4>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-md-3">
+            <div class="row justify-content-center gap-5">
+                <div class="col-md-4">
                     <div class="card card-serv">
-                        კომპიუტერული ტექნიკა
+                        <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="card card-serv">
-                        საყოფაცხოვრებო ტექნიკა
+                        <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
-                <div class="col-md-3">
+            </div>
+            <div class="row justify-content-center gap-5 mt-5">
+                <div class="col-md-4">
                     <div class="card card-serv">
-                       გათბობა გაგრილება
+                        <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="card card-serv">
-                        ტექნიკური მომსახურება
+                        <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
+               
             </div>
                 </div>
             </div>
