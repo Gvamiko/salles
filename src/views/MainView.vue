@@ -1,16 +1,10 @@
 <template>
   <div>
   <NavbarView/>
- 
-    <div class="container">
-      <div class="row mt-5">
-        <div class="col-md-12 mt-4">
-          <div class="wall">
-            
-          </div>
-        </div>
-      </div>  
-    </div>
+  <ServiceView/>
+  <PartnersView/>
+  <infoView/>
+    
  
 </div>
 </template>
@@ -18,11 +12,18 @@
 <script>
 // @ is an alias to /src
 import NavbarView from '@/components/NavbarView.vue'
+import infoView from '../components/InfoView.vue'
+import PartnersView from '../components/PartnersView.vue'
+import ServiceView from '../components/ServiceView.vue'
 
 export default {
   name: 'HomeView',
   components: {
     NavbarView,
+    infoView,
+    PartnersView,
+    ServiceView,
   }
+  
 }
 </script>
