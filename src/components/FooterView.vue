@@ -6,17 +6,17 @@
                     <div class="row justify-content-between">
                         <div class="col-md-3">
                             <div class="il">
-                                <li><a href="">gigi</a></li>
+                                <li><a href=""></a></li>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="il">
-                                <li><a href="">gigi</a></li>
+                                <li><a href=""></a></li>
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="il">
-                                <li><a href="">gigi</a></li>
+                                <li><a href=""></a></li>
                             </div>
                         </div>
                     </div>
