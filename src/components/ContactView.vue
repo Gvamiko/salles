@@ -1,16 +1,16 @@
 <template>
     <div>
         <div class="container">
-            <div class="row justify-content-center mt-3 bgr">
+            <div class="row justify-content-center align-items-center mt-3 bgr">
                 <div class="col-md-12 col-12 ">
                     <div class="col-md-12">
                         <h4 class="text-center headers mb-4">კონტაქტი</h4>
                     </div>
                     <div>
-                        <div class="row justify-content-center">
-                            <div class="col-md-6 col-12 d-flex justify-content-center align-items-center">
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col-md-6 col-12 d-flex justify-content-center">
                                 <div class="info-group">
-                                    <h6>მოგვწერეთ ელექტრონულ ფოსტაზე</h6>
+                                    <h6 class="contact-h m-0 p-0">მოგვწერეთ ელექტრონულ ფოსტაზე</h6>
                                 </div>
                             </div>
                             <div class="col-md-6 col-12 d-flex align-items-center justify-content-center ">

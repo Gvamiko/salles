@@ -170,6 +170,10 @@ body {
 .contact-form {
     width: 100%;
 }
+.contact-h {
+    font-family: var(--font-family);
+    font-size: var(--font-size-lable) !important;
+}
 footer {
     height: 200px;
     width: 100%;
