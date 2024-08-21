@@ -5,6 +5,7 @@
     <PartnersView id="scrollspyHeading2"/>
     <InfoView id="scrollspyHeading3"/>
     <ContactView id="scrollspyHeading4"/>
+    <FooterView/>
 </div>
 </template>
 
@@ -15,6 +16,7 @@ import InfoView from '../components/InfoView.vue'
 import PartnersView from '../components/PartnersView.vue'
 import ServiceView from '../components/ServiceView.vue'
 import ContactView from '../components/ContactView.vue'
+import FooterView from '../components/FooterView.vue'
 
 export default {
   name: 'HomeView',
@@ -24,6 +26,7 @@ export default {
     PartnersView,
     ServiceView,
     ContactView,
+    FooterView,
   }
   
 }

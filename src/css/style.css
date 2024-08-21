@@ -26,7 +26,6 @@ body {
     --font-size: 16px;
     --row-bg-color: #ece4d5;
     --header-footer-bg-color: #414648;
-    
 }
 
 .container-fluid {
@@ -34,7 +33,6 @@ body {
     
 }
 .bg-custom {
-    /* border-bottom: 1px solid var(--text-color); */
     background-color: var(--header-footer-bg-color);
 }
 .navbar-brand {
@@ -47,7 +45,7 @@ body {
 }
 .nav-link:hover {
     color: var(--body-color) !important;
-    border-bottom: 1px solid var(--nav-btn-color);
+
 }
 .btn-manual-nav {
     border: none;
@@ -149,6 +147,7 @@ body {
     padding-left: 5px;
     color: var(text-color);
     font-size: var(--font-size-input);
+    font-weight: var(--font-weight);
     outline-style: none;
 }
 .contact-input::placeholder {
@@ -157,7 +156,22 @@ body {
     font-size: var(--font-size-input);
     font-weight: var(--font-weight);
 }
-
+.btn-input {
+    border: none;
+    border-radius: 2px;
+    color: var(--header-footer-bg-color);
+    font-weight: var(--font-weight);
+    background-color: var(--nav-btn-color);
+}
+.btn-input:hover {
+    background-color: var(--nav-btn-color);
+    color: var(--row-bg-color);
+}
+footer {
+    height: 200px;
+    width: 100%;
+    background-color: var(--header-footer-bg-color);
+}
 @media only screen and (max-width: 765px) {
     .bg-custom {
         border: none;

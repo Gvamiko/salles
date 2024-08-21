@@ -15,9 +15,10 @@
                                 </div>
                             </div>
                             <div class="col-md-6 d-flex align-items-center justify-content-center">
-                                <form action="" class="d-flex gap-3 contact-form">
+                                <form action="" class="d-flex gap-3 contact-form align-items-center">
                                     <label for="email" class="contact-label">ელ.ფოსტა</label>
                                     <input type="email" id="email" class="contact-input" placeholder="Example@mail.com">
+                                    <input type="submit" class="btn btn-input" value="გაზავნა" name="" id="">
                                 </form>
                             </div>
                         </div>
