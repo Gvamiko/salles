@@ -1,5 +1,5 @@
 <template>
-  <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example  " tabindex="0">
+  <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
     <NavbarView/>
     <ServiceView id="scrollspyHeading1"/>
     <PartnersView id="scrollspyHeading2"/>

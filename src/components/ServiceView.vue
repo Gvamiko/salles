@@ -9,24 +9,24 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-md-6">
+                <div class="col-md-6 col-6">
                     <div class="card card-serv">
                         <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-6">
                     <div class="card card-serv">
                         <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-md-6">
+                <div class="col-md-6 col-6">
                     <div class="card card-serv">
                         <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-6">
                     <div class="card card-serv">
                         <h6>კომპიუტერული ტექნიკა</h6>
                     </div>
