@@ -2,11 +2,11 @@
     <div>
         <div class="container">
             <div class="row mt-5">
-                <div class="col-12 ">
-                    <h4 class="text-center">პარტნიორები</h4>
+                <div class="col-md-12 col-12">
+                    <h4 class="text-center headers">პარტნიორები</h4>
                 </div>
             </div>
-            <ul class="partners_list d-flex justify-content-evenly mt-3">
+            <ul class="partners_list d-flex justify-content-between mt-3">
                 <li>
                     <h4>Partner</h4>
                 </li>

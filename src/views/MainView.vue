@@ -1,28 +1,29 @@
 <template>
-  <div>
-  <NavbarView/>
-  <ServiceView/>
-  <PartnersView/>
-  <infoView/>
-    
- 
+  <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example  " tabindex="0">
+    <NavbarView/>
+    <ServiceView id="scrollspyHeading1"/>
+    <PartnersView id="scrollspyHeading2"/>
+    <InfoView id="scrollspyHeading3"/>
+    <ContactView id="scrollspyHeading4"/>
 </div>
 </template>
 
 <script>
 // @ is an alias to /src
 import NavbarView from '@/components/NavbarView.vue'
-import infoView from '../components/InfoView.vue'
+import InfoView from '../components/InfoView.vue'
 import PartnersView from '../components/PartnersView.vue'
 import ServiceView from '../components/ServiceView.vue'
+import ContactView from '../components/ContactView.vue'
 
 export default {
   name: 'HomeView',
   components: {
     NavbarView,
-    infoView,
+    InfoView,
     PartnersView,
     ServiceView,
+    ContactView,
   }
   
 }
