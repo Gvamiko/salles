@@ -30,7 +30,7 @@ body {
 
 .container-fluid {
     padding: 0 !important;
-    
+    border: none !important;
 }
 .bg-custom {
     background-color: var(--header-footer-bg-color);
@@ -70,6 +70,7 @@ body {
     padding-top: 40px;
     padding-bottom: 40px;
     border-radius: 4px;
+    border: none;
 }
 .matg-t {
     margin-top: 100px !important;
@@ -94,9 +95,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: var(--body-color);
+    
+    background-size: cover;
+    background-color: var(--nav-text-color);
     color: var(--text-color);
     font-weight: var(--font-weight) !important;
+    border: none;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    
+       
 }
 .card-serv > h6 {
     font-size: var(--font-size-p);
