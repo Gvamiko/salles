@@ -3,7 +3,7 @@
     src: url(../assets/Fonts/bpg_glaho.ttf);
 }
 :root {
-    --body-color: #ece4d5 !important;
+    --body-color: #fff !important;
     --nav-background-color:#414648;
     --nav-text-color: #ffaf37;
     --text-color: #563e3b;
@@ -15,7 +15,7 @@
     --nav-btn-color: #fd6504;
     --font-family: 'georgia';
     --font-size: 16px;
-    --row-bg-color: #ece4d5;
+    --row-bg-color: #fff;
     --header-footer-bg-color: #414648;
 }
 * {
@@ -187,6 +187,7 @@ footer {
     width: 100%;
     background-color: var(--header-footer-bg-color);
 }
+
 @media only screen and (max-width: 765px) {
     .bg-custom {
         border: none;
