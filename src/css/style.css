@@ -2,15 +2,6 @@
     font-family: 'georgia';
     src: url(../assets/Fonts/bpg_glaho.ttf);
 }
-* {
-    box-sizing: border-box;
-}
-body {
-    margin: 0;
-    padding: 0;
-    background-color: var(--body-color) !important;
-    font-family: var(--font-family);
-}
 :root {
     --body-color: #ece4d5 !important;
     --nav-background-color:#414648;
@@ -26,6 +17,15 @@ body {
     --font-size: 16px;
     --row-bg-color: #ece4d5;
     --header-footer-bg-color: #414648;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--body-color) !important;
+    font-family: var(--font-family);
 }
 
 .container-fluid {
