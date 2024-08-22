@@ -17,7 +17,7 @@ import PartnersView from '../components/PartnersView.vue'
 import ServiceView from '../components/ServiceView.vue'
 import ContactView from '../components/ContactView.vue'
 import FooterView from '../components/FooterView.vue'
-import Galleria from 'primevue/galleria';
+
 
 export default {
   name: 'HomeView',
