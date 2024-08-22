@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container ">
-            <div class="row mt-5 matg-t bgr m-0">
+            <div class="row matg-t bgr m-0">
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-12">
