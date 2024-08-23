@@ -27,7 +27,7 @@
                       <input type="email" id="email" class="contact-input w-100 " placeholder="Example@mail.com">
                       <label for="password" class="contact-label mt-4">პაროლი</label>
                       <input type="password" id="password" class="contact-input w-100" placeholder="***********">
-                      <input type="submit" class="btn btn-input w-100 mt-5" value="ავტორიზაცია" name="" id="">
+                      <input type="submit" class="btn btn-input-login w-100 mt-5" value="ავტორიზაცია" name="" id="">
                   </form>
                 </div>
                 <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
@@ -58,7 +58,7 @@
                       <input type="email" id="email" class="contact-input w-100 " placeholder="Example@mail.com">
                       <label for="password" class="contact-label mt-4">პაროლი</label>
                       <input type="password" id="password" class="contact-input w-100" placeholder="***********">
-                      <input type="submit" class="btn btn-input w-100 mt-5" value="რეგისტრაცია" name="" id="">
+                      <input type="submit" class="btn btn-input-login w-100 mt-5" value="რეგისტრაცია" name="" id="">
                   </form>
                 </div>
                 

@@ -9,7 +9,7 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="./#scrollspyHeading1">პროდუქტები</a>
+                    <a class="nav-link active" aria-current="page" href="./#scrollspyHeading1">მთავარი</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="/#scrollspyHeading2">პარტნიორები</a>

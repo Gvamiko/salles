@@ -12,7 +12,7 @@
     --font-size-p: 15px !important;
     --font-size-lable: 18px !important;
     --font-size-input: 14px !important;
-    --nav-btn-color: #fd6504;
+    --nav-btn-color: #f56900;
     --font-family: 'georgia';
     --font-size: 16px;
     --row-bg-color: #fff;
@@ -177,6 +177,17 @@ body {
     background-color: var(--nav-btn-color);
     color: var(--row-bg-color);
 }
+.btn-input-login{
+    border: none;
+    border-radius: 2px;
+    color: var(--row-bg-color);
+    font-weight: var(--font-weight);
+    background-color: var(--nav-btn-color);
+}
+.btn-input-login:hover {
+    background-color: var(--nav-btn-color);
+    color: var(--nav-background-color);
+}
 .contact-form {
     width: 100%;
 }
@@ -207,6 +218,20 @@ footer {
     background-color: var(--nav-btn-color) !important;
     color: #fff !important;
 }
+.accordion-button {
+    height: 45px;
+}
+.accordion-button:not(.collapsed) {
+    background-color: var(--card-background);
+}
+.accordion-button > h2:not(.collapsed) {
+    color: #fff !important;
+}
+.accordion-button:focus {
+    box-shadow: none !important;
+}
+
+
 
 @media only screen and (max-width: 765px) {
     .bg-custom {
