@@ -88,7 +88,7 @@
       </div>
     </div>
     <ContactView/>
-    <FooterView />
+    <FooterView class="bottom-0 position-absolute w-100"/>
 </div>
 </template>
 
@@ -97,7 +97,7 @@
 import NavbarView from '@/components/NavbarView.vue'
 import ContactView from '../components/ContactView.vue'
 import FooterView from '../components/FooterView.vue'
-import Galleria from 'primevue/galleria';
+
 
 export default {
   name: 'HomeView',
@@ -105,7 +105,6 @@ export default {
     NavbarView,
     ContactView,
     FooterView,
-    Galleria,
   } 
 }
 </script>
