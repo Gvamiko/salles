@@ -60,16 +60,16 @@ body {
 
 }
 .btn-manual-nav {
-    border: none;
+    border: 1px solid var(--nav-btn-color);
     border-radius: 2px;
     color: var(--nav-text-color);
     font-weight: var(--font-weight);
-    background-color: var(--nav-btn-color);
+    /* background-color: var(--nav-btn-color); */
 }
 .btn-manual-nav:hover {
     color: var(--nav-text-color);
-    
-    border-bottom: 1px solid var(--nav-btn-color);
+    background-color: var(--nav-btn-color);
+    /* border-bottom: 1px solid var(--nav-btn-color); */
     
     /* border-radius: 0; */
 }
