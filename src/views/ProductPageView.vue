@@ -2,11 +2,13 @@
   <div>
     <NavbarView/>
     <div class="container">
-      <div class="row matg-t justify-content-between">
-        <div class="col-md-6">
-            
+      <div class="row matg-t justify-content-between mb-5">
+        <div class="col-md-6 mt-5 mb-5">
+            <div class="card-gallery">
+              
+            </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 mt-5 mb-6">
             <div class="descr">
                 <h5>ძირითადი მახასიათებლები:</h5>
                 <ul>
@@ -86,9 +88,15 @@
             </div>
         </div>
       </div>
+      <div class="row justify-content-end">
+        <div class="col-md-1"><button>რაოდენობა</button></div>
+        <div class="col-md-2"><button>კალათში დამატება</button></div>
+        <div class="col-md-3"><button>მოითხოვე სპეციალური ფასი</button></div>
+      
+      </div>
     </div>
     <ContactView/>
-    <FooterView class="bottom-0 position-absolute w-100"/>
+    <FooterView/>
 </div>
 </template>
 

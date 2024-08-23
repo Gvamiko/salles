@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="container">
-            <div class="row justify-content-center align-items-center mt-3 bgr">
+            <div class="row justify-content-center align-items-center mt-3 mb-5 bgr">
                 <div class="col-md-12 col-12 ">
                     <div class="col-md-12">
                         <h4 class="text-center headers mb-4">კონტაქტი</h4>
