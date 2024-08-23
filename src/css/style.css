@@ -2,23 +2,28 @@
     font-family: 'georgia';
     src: url(../assets/Fonts/bpg_glaho.ttf);
 }
+@font-face {
+    font-family: 'libre';
+    src: url(../assets/Fonts/FrankRuhlLibre-Bold.ttf);
+}
 :root {
     --body-color: #fff !important;
     --nav-background-color:#414648;
-    --nav-text-color: #ffaf37;
-    --text-color: #563e3b;
+    --nav-text-color: #2e475d;
+    --text-color: #000000;
     --font-weight: 600;
     --font-size: 20px !important;
     --font-size-p: 15px !important;
     --font-size-lable: 18px !important;
     --font-size-input: 14px !important;
-    --nav-btn-color: #f56900;
+    --nav-btn-color: #f56c03;
     --font-family: 'georgia';
     --font-size: 16px;
     --row-bg-color: #fff;
-    --header-footer-bg-color: #414648;
+    --header-footer-bg-color: #ebebeb9d;
     --card-background: #ebebeb9d;
     --input-border-color: #575a5c;
+    --footer-background-color: #2e475d;
 }
 * {
     box-sizing: border-box;
@@ -35,24 +40,29 @@ body {
     border: none !important;
 }
 .bg-custom {
-    background-color: var(--header-footer-bg-color);
+    background-color: var(--card-background);
 }
 .navbar-brand {
     color: var(--nav-text-color) !important;
     font-weight: 700;
+    font-family: libre;
+    font-size: 30px !important;
+}
+.navbar-brand > span {
+    color: var(--nav-btn-color);
 }
 .nav-link {
     color: var(--nav-text-color) !important;
     font-weight: var(--font-weight);
 }
 .nav-link:hover {
-    color: var(--body-color) !important;
+    color: var(--nav-btn-color) !important;
 
 }
 .btn-manual-nav {
     border: none;
     border-radius: 2px;
-    color: var(--row-bg-color);
+    color: var(--nav-text-color);
     font-weight: var(--font-weight);
     background-color: var(--nav-btn-color);
 }
@@ -78,7 +88,7 @@ body {
     margin-top: 80px !important;
 }
 .headers {
-    color: var(--text-color);
+    color: var(--nav-text-color);
     font-family: var(--font-family);
     font-weight: var(--font-weight);
     font-size: var(--font-size);
@@ -108,6 +118,7 @@ body {
 .card-serv > h6 {
     font-size: var(--font-size-p);
     font-weight: var(--font-weight);
+    color: var(--nav-text-color);
 }
 .rout {
     text-decoration: none;
@@ -135,7 +146,7 @@ body {
 .info-p {
     font-size: var(--font-size-p);
     font-weight: var(--font-weight);
-    color: var(--text-color);
+    color: var(--nav-text-color);
     margin: 0;
     padding: 0;
 }
@@ -198,7 +209,7 @@ body {
 footer {
     height: 150px;
     width: 100%;
-    background-color: var(--header-footer-bg-color);
+    background-color: var(--footer-background-color);
 }
 .row-h {
     width: 100%;
@@ -220,6 +231,7 @@ footer {
 }
 .accordion-button {
     height: 45px;
+    background-color: rgb(250, 250, 250);
 }
 .accordion-button:not(.collapsed) {
     background-color: var(--card-background);
