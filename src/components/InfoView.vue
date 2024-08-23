@@ -10,7 +10,7 @@
                                 <h4 class="headers">ჩვენს შესახებ</h4>
                             </button>
                             </h2>
-                            <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show">
+                            <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse">
                             <div class="accordion-body">
                                 <p class="info-p">
                                     ბაიტქრაფთი არის ინოვაციური და დინამიკური კომპანია, რომელიც სპეციალიზირებულია ტექნიკის მოწოდებასა და მოლაპარაკებებში, რაც ჩვენს კლიენტებს უზრუნველყოფს საუკეთესო პროდუქციით და გამორჩეული ფასებით. ჩვენ ვმუშაობთ გლობალურად ცნობილ მწარმოებლებთან და მომწოდებლებთან, რათა ჩვენს მომხმარებლებს შევთავაზოთ უმაღლესი ხარისხის ტექნიკა სხვადასხვა ინდუსტრიებისთვის.
