@@ -185,7 +185,7 @@ body {
     font-size: var(--font-size-lable) !important;
 }
 footer {
-    height: 200px;
+    height: 150px;
     width: 100%;
     background-color: var(--header-footer-bg-color);
 }
@@ -200,8 +200,12 @@ footer {
     color: var(--nav-background-color) !important;
     border: none;
 }
+.nav_link:hover {
+    color: var(--nav-btn-color) !important;
+}
 .nav_link:focus {
     background-color: var(--nav-btn-color) !important;
+    color: #fff !important;
 }
 
 @media only screen and (max-width: 765px) {
