@@ -2,7 +2,7 @@
     <div>
         <div class="container ">
             <div class="row bgr justify-content-center mt-5">
-                <div class="col-md-12 col-12">
+                <div class="col-md-12 col-11">
                     <div class="card card-1">
                         <div class="card-body">
                             <div class="row justify-content-center">

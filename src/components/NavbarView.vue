@@ -21,7 +21,9 @@
                     <a class="nav-link active" aria-current="page" href="/#scrollspyHeading4">კონტაქტი</a>
                 </li>
             </ul>
-                <button class="btn btn-manual-nav" type="submit">ავტორიზაცია</button>
+                <RouterLink to="/login">
+                    <button class="btn btn-manual-nav" type="submit">ავტორიზაცია</button>
+                </RouterLink>
             </div>
         </div>
         </nav>

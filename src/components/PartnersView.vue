@@ -1,8 +1,8 @@
 <template>
     <div>
         <div class="container">
-            <div class="row mt-5">
-                <div class="col-md-12 col-12">
+            <div class="row mt-5 justify-content-center">
+                <div class="col-md-12 col-11">
                     <h4 class="text-center headers">პარტნიორები</h4>
                 </div>
             </div>

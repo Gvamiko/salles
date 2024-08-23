@@ -11,35 +11,28 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="row justify-content-between">
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
                                         </div>
                                     </RouterLink>
                                 </div>
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
                                         </div>
                                     </RouterLink>
                                 </div>
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
                                         </div>
                                     </RouterLink>
                                 </div>
-                                <div class="col-md-2 col-2">
-                                    <RouterLink class="rout" to="/product">
-                                        <div class="card card-serv">
-                                            <h6>კომპიუტერული ტექნიკა</h6>
-                                        </div>
-                                    </RouterLink>
-                                </div>
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
@@ -48,35 +41,28 @@
                                 </div>
                             </div>
                             <div class="row justify-content-between">
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
                                         </div>
                                     </RouterLink>
                                 </div>
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
                                         </div>
                                     </RouterLink>
                                 </div>
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
                                         </div>
                                     </RouterLink>
                                 </div>
-                                <div class="col-md-2 col-2">
-                                    <RouterLink class="rout" to="/product">
-                                        <div class="card card-serv">
-                                            <h6>კომპიუტერული ტექნიკა</h6>
-                                        </div>
-                                    </RouterLink>
-                                </div>
-                                <div class="col-md-2 col-2">
+                                <div class="col-md-2 col-6">
                                     <RouterLink class="rout" to="/product">
                                         <div class="card card-serv">
                                             <h6>კომპიუტერული ტექნიკა</h6>
