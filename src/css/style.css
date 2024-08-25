@@ -6,6 +6,12 @@
     font-family: 'libre';
     src: url(../assets/Fonts/FrankRuhlLibre-Bold.ttf);
 }
+@font-face {
+    font-family: 'firago';
+    src: url(../assets/Fonts/firago-latin-600-normal.ttf);
+}
+
+
 :root {
     --body-color: #fff !important;
     --nav-background-color:#414648;
@@ -17,11 +23,11 @@
     --font-size-lable: 18px !important;
     --font-size-input: 14px !important;
     --nav-btn-color: #f56c03;
-    --font-family: 'georgia';
+    --font-family: 'firago';
     --font-size: 16px;
     --row-bg-color: #fff;
     --header-footer-bg-color: #ebebeb9d;
-    --card-background: #ebebeb9d;
+    --card-background: #ebebeb;
     --input-border-color: #575a5c;
     --footer-background-color: #2e475d;
 }
@@ -32,7 +38,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--body-color) !important;
-    font-family: var(--font-family);
+    font-family: var(--font-family) !important;
 }
 
 .container-fluid {
@@ -45,7 +51,7 @@ body {
 .navbar-brand {
     color: var(--nav-text-color) !important;
     font-weight: 700;
-    font-family: libre;
+    font-family: "libre";
     font-size: 30px !important;
 }
 .navbar-brand > span {
@@ -60,7 +66,8 @@ body {
 
 }
 .btn-manual-nav {
-    border: 1px solid var(--nav-btn-color);
+    border-right: 1px solid var(--nav-btn-color);
+    border-bottom: 1px solid var(--nav-btn-color);
     border-radius: 2px;
     color: var(--nav-text-color);
     font-weight: var(--font-weight);
