@@ -7,7 +7,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                                <h4 class="headers">ჩვენს შესახებ</h4>
+                                <h6 class="ac-header">ჩვენს შესახებ</h6>
                             </button>
                             </h2>
                             <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse">
@@ -23,7 +23,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                                <h6 class="headers">რატომ ჩვენ?</h6>                            </button>
+                                <h6 class="ac-header">რატომ ჩვენ?</h6>                            </button>
                             </h2>
                             <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse">
                             <div class="accordion-body">
@@ -45,7 +45,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                                <h6 class=" headers">ჩვენი მისია</h6>
+                                <h6 class=" ac-header">ჩვენი მისია</h6>
                             </button>
                             </h2>
                             <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse">
@@ -59,7 +59,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapsFour">
-                                <h6 class=" headers">ჩვენი ხედვა</h6>
+                                <h6 class=" ac-header">ჩვენი ხედვა</h6>
                             </button>
                             </h2>
                             <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse">

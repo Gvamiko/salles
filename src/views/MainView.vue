@@ -4,8 +4,8 @@
     <ServiceView id="scrollspyHeading1"/>
     <PartnersView id="scrollspyHeading2"/>
     <InfoView id="scrollspyHeading3"/>
-    <ContactView id="scrollspyHeading4"/>
-    <FooterView/>
+    <!-- <ContactView id="scrollspyHeading4"/> -->
+    <FooterView id="scrollspyHeading4" />
 </div>
 </template>
 

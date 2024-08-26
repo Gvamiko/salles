@@ -95,7 +95,7 @@
       
       </div>
     </div>
-    <ContactView/>
+    <!-- <ContactView/> -->
     <FooterView/>
 </div>
 </template>

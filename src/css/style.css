@@ -30,6 +30,7 @@
     --card-background: #ebebeb;
     --input-border-color: #575a5c;
     --footer-background-color: #2e475d;
+    --ac-header-font-size: 17px;
 }
 * {
     box-sizing: border-box;
@@ -99,6 +100,12 @@ body {
     font-family: var(--font-family);
     font-weight: var(--font-weight);
     font-size: var(--font-size);
+}
+.ac-header {
+    color: var(--nav-text-color);
+    font-family: var(--font-family);
+    font-weight: var(--font-weight);
+    font-size: var(--ac-header-font-size);
 }
 .card-1 {
     border: none;
@@ -249,7 +256,10 @@ footer {
 .accordion-button:focus {
     box-shadow: none !important;
 }
-
+.descr {
+    font-family: var(--font-family);
+    color: var(--nav-text-color) !important;
+}
 
 
 @media only screen and (max-width: 765px) {
