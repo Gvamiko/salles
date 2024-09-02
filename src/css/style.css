@@ -75,8 +75,10 @@ body {
     /* background-color: var(--nav-btn-color); */
 }
 .btn-manual-nav:hover {
-    color: var(--nav-text-color);
-    background-color: var(--nav-btn-color);
+    color: var(--body-color);
+    background-color: var(--nav-text-color);
+    /* border-bottom: 1px solid var(--body-color);
+    border-right: 1px solid var(--body-color); */
     /* border-bottom: 1px solid var(--nav-btn-color); */
     
     /* border-radius: 0; */
