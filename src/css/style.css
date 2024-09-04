@@ -155,7 +155,7 @@ body {
 }
 .info-group > h6{
     font-family: var(--font-family);
-    color: var(--text-color);
+    color: var(--row-bg-color);
     font-size: 16px;
     font-weight: 600;
 }
@@ -170,7 +170,7 @@ body {
     font-family: var(--font-family);
     font-size: var(--font-size-lable);
     font-weight: var(--font-weight);
-    color: var(--text-color);
+    color: var(--row-bg-color);
 }
 .contact-input {
     border: none;
@@ -199,6 +199,7 @@ body {
     color: var(--header-footer-bg-color);
     font-weight: var(--font-weight);
     background-color: var(--nav-btn-color);
+
 }
 .btn-input:hover {
     background-color: var(--nav-btn-color);
@@ -209,11 +210,13 @@ body {
     border-radius: 2px;
     color: var(--row-bg-color);
     font-weight: var(--font-weight);
-    background-color: var(--nav-btn-color);
+    background-color: var(--footer-background-color);
+    border-bottom: 1px solid var(--nav-btn-color);
+    border-right: 1px solid var(--nav-btn-color);
 }
 .btn-input-login:hover {
     background-color: var(--nav-btn-color);
-    color: var(--nav-background-color);
+    color: var(--body-color);
 }
 .contact-form {
     width: 100%;
