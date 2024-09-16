@@ -19,6 +19,7 @@ import ContactView from '../components/ContactView.vue'
 import FooterView from '../components/FooterView.vue'
 
 
+
 export default {
   name: 'HomeView',
   components: {
