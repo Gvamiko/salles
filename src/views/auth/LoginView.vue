@@ -35,21 +35,21 @@
                     <div class="row d-md-flex d-none">
                       <div class="col-md-6">
                         <label for="text" class="contact-label">სახელი</label>
-                        <input type="text" id="userName" class="contact-input w-100 " placeholder="">
+                        <input type="text" id="userName" class="contact-input w-100 " placeholder="სახელი">
                       </div>
                       <div class="col-md-6">
                         <label for="text" class="contact-label">გვარი</label>
-                        <input type="text" id="userSrnm" class="contact-input w-100 " placeholder="">
+                        <input type="text" id="userSrnm" class="contact-input w-100 " placeholder="გვარი">
                       </div>
                     </div>
                     <div class="row d-md-none  justify-content-center">
                       <div class="col-md-6">
                         <label for="text" class="contact-label">სახელი</label>
-                        <input type="text" id="userName" class="contact-input w-100 " placeholder="">
+                        <input type="text" id="userName" class="contact-input w-100 " placeholder="სახელი">
                       </div>
                       <div class="col-md-6">
                         <label for="text" class="contact-label mt-4">გვარი</label>
-                        <input type="text" id="userSrnm" class="contact-input w-100 " placeholder="">
+                        <input type="text" id="userSrnm" class="contact-input w-100 " placeholder="გვარი">
                       </div>
                     </div>
                       <label for="number" class="contact-label mt-4">ტელეფონის ნოემრი</label>
