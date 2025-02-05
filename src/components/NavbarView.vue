@@ -2,7 +2,7 @@
     <div>
         <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-custom" id="navbar-example2">
             <div class="container">
-                <a href="/" class="navbar-brand"><span>B</span>yte<span>C</span>raft</a>
+                <a href="/" class="navbar-brand"><span>L</span>ive<span>S</span>ale</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
@@ -27,7 +27,6 @@
                 </div>
             </div>
         </nav>
-        
     </div>
   </template>
 
